@@ -15,7 +15,7 @@ public class debitClassNum {
 		// read fourthNum
         int lastNum = Integer.parseInt(scanner.nextLine());
 		// print all Nums
-        System.out.printf("%04d %04d %04d %04d", firstNum, secondNum, thirdNum, fourthNum);
+        System.out.printf("%04d %04d %04d %04d", firstNum, secondNum, thirdNum, lastNum);
 
     }
 }
