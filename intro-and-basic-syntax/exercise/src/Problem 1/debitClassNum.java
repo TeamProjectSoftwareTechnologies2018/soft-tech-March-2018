@@ -12,7 +12,7 @@ public class debitClassNum {
 		// read thirdNum
         int thirdNum = Integer.parseInt(scanner.nextLine());
 		// read fourthNum
-        int fourthNum = Integer.parseInt(scanner.nextLine());
+        int lastNum = Integer.parseInt(scanner.nextLine());
 		// print all Nums
         System.out.printf("%04d %04d %04d %04d", firstNum, secondNum, thirdNum, fourthNum);
 
