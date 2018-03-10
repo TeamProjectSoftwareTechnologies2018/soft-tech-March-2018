@@ -83,31 +83,6 @@ character after the decimal point**.
 
 #### Examples
 
- 
-
-<table>
-<thead>
-<tr>
-  <th>Input</th>
-  <th>Output</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>2 7</td>
-  <td>14.00</td>
-</tr>
-<tr>
-  <td>7 8</td>
-  <td>56.00</td>
-</tr>
-<tr>
-  <td>12.33 5</td>
-  <td>61.65</td>
-</tr>
-</tbody>
-</table>
-
 | Input   | Output |
 |---------|--------|
 | 2 7     | 14.00  |
