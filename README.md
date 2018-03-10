@@ -107,3 +107,9 @@ character after the decimal point**.
 </tr>
 </tbody>
 </table>
+
+| Input   | Output |
+|---------|--------|
+| 2 7     | 14.00  |
+| 7 8     | 56.00  |
+| 12.33 5 | 61.65  |
