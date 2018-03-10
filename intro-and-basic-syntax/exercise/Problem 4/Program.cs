@@ -20,12 +20,12 @@ namespace BeverageLabels
             int sugar = int.Parse(Console.ReadLine());
 
             //Calculation of energy and sugar content for given volume:
-            double energyContent = (volume * energy * 1.0) / 100;
-            double sugarContent = (volume * sugar * 1.0) / 100;
+            double energyContent = (volumeOfProduct * energy * 1.0) / 100;
+            double sugarContent = (volumeOfProduct * sugar * 1.0) / 100;
 
             //Print:
-            Console.WriteLine($"{volume}ml {name}:");
-            Console.WriteLine($"{enContent}kcal, {sugContent}g sugars");
+            Console.WriteLine($"{volumeOfProduct}ml {productName}:");
+            Console.WriteLine($"{energyContent}kcal, {sugarContent}g sugars");
         }
     }
 }
