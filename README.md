@@ -135,8 +135,8 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 |    Input                    |    Output                        |
 |-----------------------------|----------------------------------|
 |    Loogi   		      |  Name: Loogi      		 |
-|    8			      |  Health: |||||||||............|  |
-|    20                       |  Energy: |||............|        |
+|    8			      |  Health: \|\|\|\|\|\|\|\|\|\............\|  |
+|    20                       |  Energy: \|\|\|\............\|        |
 |    2                        |                                  |
 |    14                       |                                  |
 
