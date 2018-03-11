@@ -1,15 +1,4 @@
-﻿# soft-tech-March-2018
-teamwork/ intro-and-basic-syntax/ software technologies @SoftUni
-allsi89 created java solution on problem 1
-Victor created java solution on problem 2
-allsi89 documented solution on problem 2
-maleksieva created c# solution on problem 3
-maleksieva created c# solution on problem 5
-maleksieva documented solution on problem 4
-maleksieva added description on problem 2 in Readme
-maleksieva added description on problem 4 in Readme
-
-### Problem 1.                
+﻿### Problem 1.                
 Debit Card Number
 
 Write a program, which receives **4****integers** on the
@@ -118,3 +107,45 @@ Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
 | 350               | 2100kcal, 490g sugars    |
 | 600               |                          |
 | 140               |                          |
+
+### Problem 5.                 
+* Character Stats
+
+Write a program, which **displays
+information** about a video game character. You will receive their **name**, **current health**, **maximum
+health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
+
+|    Input                      |    Output                  |
+|-------------------------------|----------------------------|
+|    Mayro   				    |    Name: Mayro        	 |
+|    5                          |    Health: ||||||.....|    |
+|    10                         |	 Energy: ||||||||||.| 	 |
+|·   9     					    |                            |
+|    10							|                            |
+
+|    Input                      |    Output                 |                                       
+|-------------------------------|---------------------------|
+|    Bauser   				    |  Name: Bauser      		|
+|	 10	                        |  Health: ||||||||||||    	|
+|    10                         |  Energy: ||||||||||||		|
+|    10                         |                           |
+|    10                         |                           |
+
+|    Input                      |    Output                          |
+|-------------------------------|------------------------------------|
+|    Loogi   				    |    Name: Loogi      				 |
+|	 8							|	 Health: |||||||||............|	 |
+|	 20                         |	 Energy: |||............|        |
+|	 2                          |                                    |
+|	 14                         |                                    |
+
+|    Input                    |    Output                        |
+|-----------------------------|----------------------------------|
+|    Toad   				  |    Name: Toad                    |
+|	 0						  |	   Health: |.....|               |
+|	 5                        |	   Energy: |..........|          |
+|	 0                        |                                  |
+|	 10                       |									 |
+
+You can print a character **multiple** times, using new string(character,
+count).
