@@ -11,6 +11,6 @@ public class MainClass {
         // we calculate the area using the formula area = a * b
         double area=a*b;
         // we print the result to the second digit after the decimal point
-        System.out.printf("%.2", area);
+        System.out.printf("%.2f", area);
     }
 }
