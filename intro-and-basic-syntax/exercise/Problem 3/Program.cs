@@ -1,5 +1,5 @@
 ﻿using System;
-// Confirmed by  Gergana Mileva (allsi89)
+// Confirmed by  allsi89
 namespace MilesToKilometers
 {
     class Program

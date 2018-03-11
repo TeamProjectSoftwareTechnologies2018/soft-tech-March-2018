@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Confirmed by allsi89
 namespace CharacterStats
 {
     class Program
