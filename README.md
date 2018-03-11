@@ -1,9 +1,7 @@
 ﻿### Problem 1.                
 Debit Card Number
 
-Write a program, which receives **4****integers** on the
-console and **prints them** in **4-digit debit card format**. See the
-examples below for the appropriate formatting.
+Write a program, which receives **4 integers** on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
 #### Examples
 
@@ -45,9 +43,10 @@ on the console, **formatted to the 2nd character after the decimal point**.
 ### Problem 3. 
 Miles to Kilometers
 
-Write a program, which converts miles to kilometers. Format the output to the 2nd decimal place.
+Write a program, which **converts miles** to **kilometers**. 
+**Format** the output to the **2nd** decimal place**.
 
-Note: 1 mile == 1.60934 kilometers
+Note: **1 mile == 1.60934 kilometers**
 
 #### Examples
 
@@ -63,12 +62,12 @@ Note: 1 mile == 1.60934 kilometers
 |---------|--------|
 | 52.1113 |  83.86 |
 
+
 ### Problem 4.               
 Beverage Labels
 
 Write a program, which reads a food product
-**name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
-for the **given volume** and print them
+**name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content** for the **given volume** and print them
 on the console in the following format:
 
 ·        
@@ -108,44 +107,47 @@ Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
 | 600               |                          |
 | 140               |                          |
 
+
 ### Problem 5.                 
 * Character Stats
 
-Write a program, which **displays
-information** about a video game character. You will receive their **name**, **current health**, **maximum
+Write a program, which **displays information** about a video game character. You will receive their **name**, **current health**, **maximum
 health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
-|    Input                      |    Output                  |
-|-------------------------------|----------------------------|
-|    Mayro   				    |    Name: Mayro        	 |
-|    5                          |    Health: ||||||.....|    |
-|    10                         |	 Energy: ||||||||||.| 	 |
-|·   9     					    |                            |
-|    10							|                            |
+#### Examples
 
-|    Input                      |    Output                 |                                       
-|-------------------------------|---------------------------|
-|    Bauser   				    |  Name: Bauser      		|
-|	 10	                        |  Health: ||||||||||||    	|
-|    10                         |  Energy: ||||||||||||		|
-|    10                         |                           |
-|    10                         |                           |
+|    Input                    |    Output                |
+|-----------------------------|--------------------------|
+|    Mayro   		      |  Name: Mayro             |
+|    5                        |  Health: ||||||.....|    |
+|    10                       |  Energy: ||||||||||.|    |
+|·   9     		      |                          |
+|    10			      |                          |
 
-|    Input                      |    Output                          |
-|-------------------------------|------------------------------------|
-|    Loogi   				    |    Name: Loogi      				 |
-|	 8							|	 Health: |||||||||............|	 |
-|	 20                         |	 Energy: |||............|        |
-|	 2                          |                                    |
-|	 14                         |                                    |
+|    Input                    |    Output                |                                       
+|-----------------------------|--------------------------|
+|    Bauser   		      |  Name: Bauser      	 |
+|    10	                      |  Health: ||||||||||||    |
+|    10                       |  Energy: ||||||||||||	 |
+|    10                       |                          |
+|    10                       |                          |
 
 |    Input                    |    Output                        |
 |-----------------------------|----------------------------------|
-|    Toad   				  |    Name: Toad                    |
-|	 0						  |	   Health: |.....|               |
-|	 5                        |	   Energy: |..........|          |
-|	 0                        |                                  |
-|	 10                       |									 |
+|    Loogi   		      |  Name: Loogi      		 |
+|    8			      |  Health: |||||||||............|  |
+|    20                       |  Energy: |||............|        |
+|    2                        |                                  |
+|    14                       |                                  |
 
-You can print a character **multiple** times, using new string(character,
-count).
+|    Input                    |    Output                        |
+|-----------------------------|----------------------------------|
+|    Toad   		      |    Name: Toad                    |
+|    0			      |	   Health: |.....|               |
+|    5                        |	   Energy: |..........|          |
+|    0                        |                                  |
+|    10                       |					 |
+
+#### Hints
+.
+You can print a character **multiple** times, using new string(character, count).
