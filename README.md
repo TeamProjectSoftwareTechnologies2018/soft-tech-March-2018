@@ -44,7 +44,7 @@ on the console, **formatted to the 2nd character after the decimal point**.
 Miles to Kilometers
 
 Write a program, which **converts miles** to **kilometers**. 
-**Format** the output to the **2nd** decimal place**.
+**Format** the output to the **2nd decimal place**.
 
 Note: **1 mile == 1.60934 kilometers**
 
