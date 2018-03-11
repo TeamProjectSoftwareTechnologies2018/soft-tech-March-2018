@@ -119,7 +119,7 @@ health**, **current energy** and **maximum energy** on separate lines. The **cur
 |    Mayro   		      |  Name: Mayro             |
 |    5                        |  Health: \|\|\|\|\|\|.....\|    |
 |    10                       |  Energy: \|\|\|\|\|\|\|\|\|\|.\|    |
-|    9     		      |                          |
+|    9     		      |                          |
 |    10			      |                          |
 
 |    Input                    |    Output                |                                       
